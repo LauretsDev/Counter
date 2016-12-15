@@ -1,2 +1,2 @@
 # Counter
-Java project
+A project to practice multithreading.
